@@ -1,5 +1,5 @@
 //get API key from postman
-const appId = '7fe56dd2c6e3512bb89d5038f9cc0ef5';
+const appId = 'Your Key';
 
 //selecting  the get weather button with id =citybutton
 const citybutton = document.querySelector('#citybutton');
